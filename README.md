@@ -10,12 +10,14 @@ Sou estudante de Front-End e futuro Desenvolvedor Web
 <a href="https://www.linkedin.com/in/joaomarcelo1980" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+## Ferramentas e Tecnologias
+
 <div>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
           
  </div>         
 
-
-  
+<div>
 ![Snake animation](https://github.com/jcelo80/jcelo80/blob/output/github-contribution-grid-snake.svg)
+ </div>   
