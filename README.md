@@ -11,10 +11,9 @@ Sou estudante de Front-End e futuro Desenvolvedor Web
 </div>
 
 <div>
-<a href="https://github.com/jcelo80">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?jcelo80&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?jcelo80&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+ </div>         
 
 
   
