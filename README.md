@@ -20,7 +20,6 @@ Sou estudante de Front-End e futuro Desenvolvedor Web.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40"/>                
 </div>
-<br>
 
 ## Ferramentas 
 
@@ -31,7 +30,8 @@ Sou estudante de Front-End e futuro Desenvolvedor Web.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain-wordmark.svg" width="40" height="40"/>
 </div>
-<br>
+
+<br><br>
 
 <div>
 <a href="https://github.com/jcelo80">
