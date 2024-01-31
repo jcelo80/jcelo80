@@ -1,6 +1,6 @@
-### OLá me chamo João Marcelo 👋 
+### OLá, me chamo João Marcelo 👋 
 
-Sou estudante de Front-End e futuro Desenvolvedor Web
+Sou estudante de Front-End e futuro Desenvolvedor Web.
 
 ## Contatos:
 
