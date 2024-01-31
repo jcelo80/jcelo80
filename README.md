@@ -32,8 +32,7 @@ Sou estudante de Front-End e futuro Desenvolvedor Web.
 <img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api?username=jcelo80&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/jcelo80/jcelo80/blob/output/github-contribution-grid-snake.svg)   
-          
+
 
           
           
