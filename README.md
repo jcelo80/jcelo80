@@ -2,7 +2,7 @@
 
 Sou estudante de Front-End e futuro Desenvolvedor Web.
 
-## Contatos:
+## Contatos
 
 <div>
 
