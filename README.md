@@ -2,6 +2,8 @@
 
 Sou estudante de Front-End e futuro Desenvolvedor Web.
 
+Graduando Análise e Desenvolvimento de Sistemas
+
 ## Contatos
 
 <div>
