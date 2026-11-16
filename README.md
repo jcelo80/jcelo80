@@ -1,31 +1,30 @@
 # Olá! Eu sou o João Marcelo 👋
 
-Desenvolvedor em transição de carreira com foco em **Back-end Java** e **Desenvolvimento Full Stack**, graduado em **Análise e Desenvolvimento de Sistemas (ADS)**. 
+Desenvolvedor **Full Stack** em formação, graduado em **Análise e Desenvolvimento de Sistemas (ADS)**, com sólida base prática em **Front-end** e expandindo conhecimentos para o **Back-end com Java**. 
 
-Atualmente aprimorando minhas habilidades em Programação Orientada a Objetos, arquitetura de sistemas e desenvolvimento web através do programa **Start by Capgemini** e projetos práticos.
+Trago também uma bagagem sólida em ambientes corporativos e administrativos, unindo visão de processos de negócio, resolução de problemas estruturados e forte comunicação com equipes.
 
 ---
 
 ### 🚀 Sobre mim
 - 🎓 Graduado em **Análise e Desenvolvimento de Sistemas (UniFBV Wyden)**
-- 💻 Participante da trilha **Java** no **Start by Capgemini**
-- 💼 Experiência prévia sólida na área administrativa e com ERP (**TOTVS Protheus**), trazendo visão de processos de negócio para o desenvolvimento de software
+- 💻 Experiência prática em desenvolvimento **Front-end** (HTML5, CSS3 e JavaScript)
+- ☕ Iniciando estudos em **Java** e lógica de programação orientada a objetos
+- 💼 Experiência prévia sólida na área administrativa e com sistemas ERP (**TOTVS Protheus**), garantindo foco em organização e entrega de resultados
 - 📍 Recife / Jaboatão dos Guararapes - PE
 
 ---
 
 ### 🛠️ Tecnologias e Ferramentas
 
-**Back-end & Banco de Dados**
-![Java](https://img.shields.io/badge/Java_21-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-**Front-end**
+**Front-end & Web**
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
+**Back-end (Em aprendizado)**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 **Ferramentas & Versionamento**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -35,10 +34,10 @@ Atualmente aprimorando minhas habilidades em Programação Orientada a Objetos, 
 
 ---
 
-### 📌 O que estou construindo e estudando agora
-- **Java & Orientação a Objetos:** Estruturas de dados, collections, tratamento de exceções e boas práticas com JDK 21.
-- **JM Sistemas:** Projeto pessoal de sistema de gestão comercial desktop em Java integrado com MySQL.
-- **Front-end Web:** Interfaces responsivas e aplicações modernas.
+### 📌 O que estou desenvolvendo e estudando
+- **Desenvolvimento Web:** Criação de interfaces responsivas e dinâmicas utilizando HTML, CSS e JavaScript.
+- **Lógica e Back-end:** Evoluindo os fundamentos em Java e Programação Orientada a Objetos.
+- **Aprimoramento Contínuo:** Praticando versionamento de código com Git/GitHub e estruturação de projetos práticos.
 
 ---
 
