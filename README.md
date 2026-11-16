@@ -11,7 +11,7 @@ Trago também uma bagagem sólida em ambientes corporativos e administrativos, u
 - 💻 Experiência prática em desenvolvimento **Front-end** (HTML5, CSS3 e JavaScript)
 - ☕ Iniciando estudos em **Java** e lógica de programação orientada a objetos
 - 💼 Experiência prévia sólida na área administrativa e com sistemas ERP (**TOTVS Protheus**), garantindo foco em organização e entrega de resultados
-- 📍 Recife
+
 
 ---
 
